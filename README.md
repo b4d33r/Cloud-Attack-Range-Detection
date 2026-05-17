@@ -80,6 +80,8 @@ The automated attack chain (`attack_chain.sh`) simulates a sophisticated **SSRF-
 | 7. Persistence | T1098 | Create backdoor IAM user and S3 bucket |
 | 8. Privilege Escalation | T1078.004 | Attach admin policies to backdoor user |
 
+> All 8 phases are detected by custom Wazuh rules with corresponding MITRE ATT&CK technique IDs.
+
 ---
 
 ## Detection & Response
