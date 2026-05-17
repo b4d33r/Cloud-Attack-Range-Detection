@@ -1,3 +1,4 @@
+# Wazuh Agent Installation Script - Compatible with Ubuntu 22.04/24.04
 #!/bin/bash
 # ══════════════════════════════════════════════════════════════
 #  Wazuh Agent Installation — Cloud Target VM (192.168.100.20)
