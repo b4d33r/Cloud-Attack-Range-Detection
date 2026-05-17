@@ -1,3 +1,4 @@
+# CloudTrail Forwarder - Bridges LocalStack logs to Wazuh SIEM
 #!/usr/bin/env python3
 """
 CloudTrail Log Forwarder — Phase 2 Middleware
